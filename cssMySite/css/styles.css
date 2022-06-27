@@ -1,0 +1,53 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+h1{
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 68px;
+  color: #2b2b2a;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+  background-color: #73c7c6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+}
+
+.Web{
+text-decoration: underline;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300;
+  bottom: 300px;
+}
+
+br{
+  width: 30%;
+}
